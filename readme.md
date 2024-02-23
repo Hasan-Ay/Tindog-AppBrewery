@@ -12,6 +12,6 @@
 
 ## Take a look at the website ! - Websiteye bir göz atın !
 
-<img src="tindog1" alt="Tindog Title" height="400px" width="800px">
-<img src="tindog2" alt="Tindog Pricement" height="400px" width="800px">
-<img src="tindog3" alt="Tindog Aboutme" height="400px" width="800px">
+<img src="tindog1.png" alt="Tindog Title" height="400px" width="800px">
+<img src="tindog2.png" alt="Tindog Pricement" height="400px" width="800px">
+<img src="tindog3.png" alt="Tindog Aboutme" height="400px" width="800px">
